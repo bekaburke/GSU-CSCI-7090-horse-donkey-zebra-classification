@@ -1,0 +1,3 @@
+Model,Best Validation Accuracy,Best Validation Loss,Trainable Parameters
+Frozen Baseline,0.9603960514068604,0.15655523538589478,6147
+Fine-Tuned,0.9504950642585754,0.1569943130016327,7874563
